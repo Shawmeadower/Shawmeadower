@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shawmeadower
-- 👀 I’m interested in Linguistics, Public Policy, Data Analysis, Data Visualization, Quantitative Research Methods
+- 👀 I’m interested in Data Science, Linguistics, Public Policy, Data Visualization, Quantitative Research Methods
 - 🌱 I’m currently learning SQL, Python, and R Shiny
 - 💞️ I’m looking to collaborate on projects related to Sentiment Analysis, Data Visualization, or Web scraping
 - 📫 How to reach me www.linkedin.com/in/erin-shaw-meadow-096a81a8
